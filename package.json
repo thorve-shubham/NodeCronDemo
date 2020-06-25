@@ -1,0 +1,22 @@
+{
+  "name": "nodecrondemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorve-shubham/NodeCronDemo.git"
+  },
+  "author": "Shubham Thorve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorve-shubham/NodeCronDemo/issues"
+  },
+  "homepage": "https://github.com/thorve-shubham/NodeCronDemo#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
